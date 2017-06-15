@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>Hello Yum</title>
+	<link rel="stylesheet" type="text/css" href="FirstWebsiteInTechbridges.css">
+	<link href="https://fonts.googleapis.com/css?family=Pangolin" rel="stylesheet">
+</head>
+
+<body>
+	<!-- This is my nav bar -->
+	<nav>
+		
+		<ul>
+			<li><a href="file:///C:/Users/marti_000/Documents/Techbridges%203.0/Techbridges_first_HTML.html">Home</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="#">Menu</a></li>
+			<li><a href="#">Contact Us</a></li>
+		</ul>
+	
+	</nav>
+	<div class="intro">
+		<h1>Good Mood Food</h1>
+		<p>This is that good good burger food</p>
+	</div>
+	
+	<div class="Ingredients and recipe">
+		<h3>Ingredients needed</h3>
+		<ul class="ingList">
+			<li><span>2</span> Buns</li>
+			<li><span>1</span> Burger Patty</li>
+			<li><span>3</span> Spooons of Ketchup</li>
+			<li><span>2</span> Piences of Cheese</li>
+		</ul>
+	
+		<h3>Steps to prepare</h3>
+		<ol id="steps">
+			<li>Cook the patty</li>
+			<li>Add the lettuce and ketchup to the bun</li>
+			<li>Add the patty to the bun and close the burger</li>
+			<li>Eat!</li>
+		</ol>
+	</div>
+
+	<img src="burger.jpg" alt="It's a burger bruh">
+	
+	<p>Look at this burger, come on don't lie you know your mouth is watering you want this</p>
+
+</body>
+
+<footer>
+	<span>Bought to you by Brianna</span>
+</footer>
+
+</html>
